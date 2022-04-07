@@ -1,7 +1,7 @@
 <table>
   <tr>    
 
-  The Colibri-itcr project is an initiative of the Costa Rica Institute of Technology (Alajuela Headquarters) and its main objective is to use computer technologies and methodologies associated with Data Sciences to support the conservation of biological diversity in the Context of Sustainable Human Development.
+  The Colibri-itcr project is an initiative of the Costa Rica Institute of Technology (Alajuela Headquarters) and its main objective is to use computer technologies and methodologies associated with Data Sciences to support the conservation of biological diversity in the context of Sustainable Human Development.
   </tr>    
 
   
