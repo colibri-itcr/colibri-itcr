@@ -12,9 +12,9 @@
 
 <!--
 ![Contador](https://profile-counter.glitch.me/{colibri-itcr}/count.svg)
--->
-<img align="right" height="15" src="https://profile-counter.glitch.me/{colibri-itcr}/count.svg">
 
+<img align="right" height="15" src="https://profile-counter.glitch.me/{colibri-itcr}/count.svg">
+-->
 
 
 <!--
