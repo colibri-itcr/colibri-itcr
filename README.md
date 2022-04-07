@@ -17,10 +17,10 @@
 <tr>    
 <b>Work Team</b>
 
-Yannina Contreras
-Te Chen
-Adriana Morales
-María Venegas
+Yannina Contreras<br>
+Te Chen<br>
+Adriana Morales<br>
+María Venegas<br>
 
 Coordinator: María Auxiliadora Mora
   </tr>    
