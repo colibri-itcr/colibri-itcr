@@ -4,8 +4,8 @@
 
 ### Our projects
 <!-- inicio de repositorios -->
-* [Using Classification to extract phenology data from unstructured descriptions]()
-* [Using NER to extract phenology data from unstructured descriptions]()
+* [Using Classification to extract phenology data from unstructured descriptions](https://github.com/colibri-itcr/colibri-itcr)
+* [Using NER to extract phenology data from unstructured descriptions](https://github.com/colibri-itcr/colibri-itcr)
 <!-- fin de repositorios-->
 </td>
 </tr></table>
