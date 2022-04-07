@@ -14,6 +14,19 @@
 * [Using NER to extract phenology data from unstructured descriptions](https://github.com/colibri-itcr/EBV-phenology-NER)
 <!-- fin de repositorios-->
 </td>
+<tr>    
+**Work Team**
+
+Yannina Contreras
+Te Chen
+Adriana Morales
+María Venegas
+
+Coordinator: María Auxiliadora Mora
+  </tr>    
+    
+    
+    
 </tr></table>
 
 <!--
