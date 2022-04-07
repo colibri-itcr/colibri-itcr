@@ -15,7 +15,7 @@
 <!-- fin de repositorios-->
 </td>
 <tr>    
-**Work Team**
+<b>Work Team</b>
 
 Yannina Contreras
 Te Chen
