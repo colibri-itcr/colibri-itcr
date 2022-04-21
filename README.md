@@ -1,6 +1,7 @@
 <table>
   <tr>    
-
+**Data Sciences for Biodiversity Conservation (Colibri-ITCR)**
+    
   The Colibri-ITCR project is an initiative of the Costa Rica Institute of Technology (Alajuela Headquarters). Its main objective is to use computer technologies and methodologies associated with Data Sciences to support the conservation of biological diversity in the context of Sustainable Human Development.
   </tr>    
 
@@ -22,7 +23,7 @@ Te Chen<br>
 Adriana Morales<br>
 María Venegas<br>
 
-Coordinator: María Auxiliadora Mora
+Principal investigator: María Auxiliadora Mora
   </tr>    
     
     
