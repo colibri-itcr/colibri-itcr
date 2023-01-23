@@ -17,16 +17,16 @@
 </td>
 <tr>    
 <b>Work Team</b>
-
-Yannina Contreras<br>
 Te Chen<br>
 Adriana Morales<br>
-María Venegas<br>
 
 Principal investigator: María Auxiliadora Mora
   </tr>    
-    
-    
+  
+<b>Colaborators</b>
+María José Barquero
+Yannina Contreras<br>
+María Venegas<br>   
     
 </tr></table>
 
