@@ -26,7 +26,7 @@ Principal investigator: María Auxiliadora Mora
   
 <b>Colaborators</b>
 
-María José Barquero
+María José Barquero<br>
 Yannina Contreras<br>
 María Venegas<br>   
     
