@@ -11,6 +11,7 @@
 
 ### Our projects
 <!-- inicio de repositorios -->
+* [Project objectives - 2023](https://github.com/colibri-itcr/Proyecto-2023/blob/main/README.md)
 * [Using Classification to extract phenology data from unstructured descriptions](https://github.com/colibri-itcr/EBV-phenology-classification)
 * [Using NER to extract phenology data from unstructured descriptions](https://github.com/colibri-itcr/EBV-phenology-NER)
 <!-- fin de repositorios-->
