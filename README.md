@@ -22,6 +22,8 @@
 José Alejandro Chavarría<br>
 Te Chen<br>
 Adriana Morales<br>
+Brandon Retana<br>
+William Ulate<br>
 
 Principal investigator: María Auxiliadora Mora
   </tr>    
