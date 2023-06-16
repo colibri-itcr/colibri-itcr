@@ -19,6 +19,7 @@
 <tr>    
 <b>Work Team</b>
 
+María Biarreta<br>
 José Alejandro Chavarría<br>
 Te Chen<br>
 Adriana Morales<br>
