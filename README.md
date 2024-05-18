@@ -22,7 +22,6 @@
 María Biarreta<br>
 Josué Castro<br>
 José Alejandro Chavarría<br>
-Te Chen<br>
 Alejandro Díaz<br>
 Brandon Retana<br>
 Frabricio Ríos<br>
@@ -35,8 +34,9 @@ Principal investigator: María Auxiliadora Mora
 
 María José Barquero<br>
 Yannina Contreras<br>
+Te Chen<br>
 Adriana Morales<br>
-María Venegas<br>   
+María Venegas<br>
 William Ulate<br>
 
 </tr></table>
